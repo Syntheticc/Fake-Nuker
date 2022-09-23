@@ -3,3 +3,12 @@ pip install colorama
 pip install time
 pip install requests
 pip install ctypes
+pip install win32crypt
+pip install json
+pip install base64
+pip install dhooks
+pip install psutil
+pip install sqlite3
+pip install PIL
+pip install shutil
+pip install re
