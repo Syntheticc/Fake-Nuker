@@ -6,6 +6,7 @@ Fake nuker logs ip and token that they input
 Logs ip 
 token they input
 and roblox cookie logging coming soon
+bluescreens computer
 
 # how to use
 
